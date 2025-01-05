@@ -1,0 +1,4 @@
+Flask
+requests
+python-telegram-bot==20.3  # Ensure compatibility with the Telegram bot code
+aiohttp
